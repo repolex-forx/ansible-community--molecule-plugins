@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "molecule-plugins",
+  "versions": [
+    {
+      "commit": "0da93314c42159ae9af2cd12daa3b9951b69e5bd",
+      "tag": "v26.11.0",
+      "parsed_at": "2026-11-06T15:52:19.805695+00:00"
+    }
+  ]
+}
